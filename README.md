@@ -16,7 +16,7 @@
 
 
 
-- <a href="https://www.fomal.cc"><img height="22" width="22" src="https://www.fomal.cc/favicon.ico"></a>：个人网站，
+- <a href="https://www.ahoilc,cn"><img height="22" width="22" src="https://www.fomal.cc/favicon.ico"></a>：个人网站
 
 
 
